@@ -1,0 +1,2 @@
+[console_scripts]
+birthdate = birthdate_app.cli:main
